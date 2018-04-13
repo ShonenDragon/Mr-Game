@@ -1,1 +1,16 @@
-hec 
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Website part 01</h1>
+<p>This is the first part<br />
+This is the second part</p>
+<!-- Note change sources under and add images as well ( Resize images ) -->
+<hr />
+<h2>This is smaller than Header 1</h2>
+<p>part02</p>
+</body>
+<head>
+<title>Website01</title>
+</head>
+</html>
+
